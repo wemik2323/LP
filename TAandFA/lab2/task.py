@@ -27,7 +27,7 @@ def dfa(word):
 word = input("Введите слово из алфавита {0, 1}: ")
 belongs, final_state = dfa(word)
 if belongs:
-    print(f"Слово принадлежит языку. Конечное состояние: {final_state}")
+    print(f"Слово принадлежит языку.")
 else:
-    print(f"Слово не принадлежит языку. Конечное состояние: {final_state}")
+    print(f"Слово не принадлежит языку.")
 
