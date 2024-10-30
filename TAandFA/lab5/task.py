@@ -5,7 +5,7 @@ token_specification = [
     ('header', r'<[A-Za-z_][A-Za-z0-9_]*>'),  # Заголовочные файлы внутри <>
     ('keyword', r'\b(?:if|else|while|for|return|int|float|double|char|bool|void|class)\b'),  # Ключевые слова
     ('identifier', r'[A-Za-z_][A-Za-z0-9_]*'),  # Идентификаторы (переменные, функции и т.д.)
-    ('operator', r'[-+*/=<>!]!=|=?|&&|\|\|'),  # Операторы
+    ('operator', r'[+\-*/=<>!]=|==|!=|&&|\|\||[+\-*/=<>]'),  # Операторы
     ('separator', r'[{}();,]'),  # Разделители
     ('literal_number', r'\b\d+(\.\d*)?|\b0x[0-9A-Fa-f]+\b'),  # Литералы чисел
     ('literal_string', r'"(?:\\.|[^"\\])*"|\'(?:\\.|[^\'\\])\''),  # Строковые литералы
