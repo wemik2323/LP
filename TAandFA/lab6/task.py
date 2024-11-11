@@ -96,7 +96,8 @@ class Parser:
 
 # Проверка
 input_code = """
-while (x 3232> a + 25) {
+while (x > a + 25) {
+    X += 2555;
 }
 """
 tokens = lex_analysis(input_code)

@@ -11,7 +11,7 @@ def calculate_lambdas(T):
     lambda_12 = 1 / T_o
     lambda_14 = 1 / T  # λ14
     lambda_41 = 1 / T_d  # λ41
-    lambda_45 = 1 / T_d  # λ45
+    lambda_45 = 1.7 / T_d  # λ45
     lambda_51 = 1 / T_B  # λ51
     
     # λ23
@@ -41,6 +41,8 @@ p_operational = []
 
 for T in T_values:
     P1, P2, P3, P4, P5 = calculate_probabilities(T)
+    print(P1)
+    print(P4)
     p_operational.append(P1 + P4)  # Вероятность нахождения в работоспособном состоянии
 
 # Построение графика
