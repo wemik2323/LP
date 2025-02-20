@@ -1,0 +1,43 @@
+[
+  {
+    "start": 0,
+    "loaded": 2,
+    "mode": 0,
+    "status": 0,
+    "statuses": [
+      "Ожидает",
+      "Моет",
+      "Отжимает"
+    ],
+    "modes": [
+      "Смешанная",
+      "Детская",
+      "Спортивная одежда",
+      "Спортивная обувь",
+      "Быстрая"
+    ],
+    "UUID": "1i8xUWB5",
+    "modelName": "jkadfjklfad",
+    "brandName": "dafkljkjlfad",
+    "oi": 0
+  },
+  {
+    "loaded": 16,
+    "mode": 0,
+    "status": 0,
+    "statuses": [
+      "Охлаждает",
+      "Замораживает",
+      "Размораживает"
+    ],
+    "modes": [
+      "Обычный",
+      "Заморозка",
+      "Разморозка"
+    ],
+    "UUID": "NBb4OEv1",
+    "modelName": "dafkljjlkadf",
+    "brandName": "dafsjkldafklj",
+    "oi": 0
+  }
+]

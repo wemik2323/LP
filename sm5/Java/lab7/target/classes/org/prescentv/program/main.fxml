@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="640.0" style="-fx-background-color: #a2aaff;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.prescentv.program.controllers.MainController">
+   <children>
+      <AnchorPane layoutY="81.0" prefHeight="401.0" prefWidth="640.0" style="-fx-background-color: #aaaaaa;">
+         <children>
+            <TableView fx:id="tableViewContainer" editable="true" layoutX="12.0" layoutY="14.0" prefHeight="301.0" prefWidth="616.0">
+               <columnResizePolicy>
+                  <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+               </columnResizePolicy>
+               <columns>
+                  <TableColumn fx:id="UUIDColumn" prefWidth="75.0" text="UUID" />
+                  <TableColumn fx:id="elementColumn" prefWidth="75.0" text="ELEMENT" />
+                  <TableColumn fx:id="brandColumn" prefWidth="75.0" text="BRAND" />
+                  <TableColumn fx:id="modelColumn" prefWidth="75.0" text="MODEL" />
+               </columns>
+            </TableView>
+            <Button fx:id="addAppButton" layoutX="14.0" layoutY="327.0" mnemonicParsing="false" onAction="#addAppliance" prefHeight="25.0" prefWidth="59.0" text="Add" />
+            <Button fx:id="removeAppButton" layoutX="91.0" layoutY="327.0" mnemonicParsing="false" onAction="#removeAppliance" text="Remove" />
+            <Button fx:id="controlDeviceButton" layoutX="549.0" layoutY="327.0" mnemonicParsing="false" onAction="#controlDevice" text="Control" />
+            <Button fx:id="saveButton" layoutX="244.0" layoutY="327.0" mnemonicParsing="false" onAction="#saveObservableList" prefHeight="25.0" prefWidth="77.0" text="Save to file" />
+            <Button fx:id="saveToDbButton" layoutX="244.0" layoutY="360.0" mnemonicParsing="false" onAction="#saveDatabase" prefHeight="25.0" prefWidth="77.0" text="Save to DB" />
+            <Button fx:id="dbSyncButton" layoutX="358.0" layoutY="326.0" mnemonicParsing="false" onAction="#syncDB" prefHeight="59.0" prefWidth="95.0" text="Sync with DB" />
+         </children></AnchorPane>
+      <Label fx:id="nameLabel" alignment="CENTER" layoutX="241.0" layoutY="14.0" prefHeight="35.0" prefWidth="159.0" text="Some sorta prog" textAlignment="CENTER">
+         <font>
+            <Font name="Ink Free" size="22.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="script.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@500&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form name="button1" class="all_center" style="margin-left: 120px; margin-bottom: 20px;">
+        <input class="infoButton" type="button" value="info" onclick="show_information();">
+    </form>
+
+    <form name="button2" class="all_center">
+        <input type="number" min="3.00" max="5.00" style="width: 150px;" name="sqr" placeholder="Средний балл">
+        <input class="infoButton" type="button" value="show average" onclick="show_information2(button2.sqr);">
+    </form>
+
+    <center><h1 class="radio_button">Quiz</h1></center>
+
+    <center>
+        <form name="questionnaire" class="radio_button">
+            <input type="text" name="family" placeholder="Surname"><br>
+            <label> Programming assessment:</label><br>
+                <input type="radio" name="radio1" value="5" checked="checked">
+                <label>A</label><br>
+                <input type="radio" name="radio1" value="4">
+                <label>B</label><br>
+                <input type="radio" name="radio1" value="3">
+                <label>C</label><br>
+            <label>Math assessment:</label><br>
+                <input type="radio" name="radio2" value="5" checked="checked">
+                <label>A</label><br>
+                <input type="radio" name="radio2" value="4">
+                <label>B</label><br>
+                <input type="radio" name="radio2" value="3">
+                <label>C</label><br>
+            <label>Physics assessment:</label><br>
+                <input type="radio" name="radio3" value="5" checked="checked">
+                <label>A</label><br>
+                <input type="radio" name="radio3" value="4">
+                <label>B</label><br>
+                <input type="radio" name="radio3" value="3">
+                <label>C</label><br>
+                <input class="infoButton" type="button" value="Send" onclick="send(questionnaire.family, questionnaire.radio1, questionnaire.radio2, questionnaire.radio3);">
+        </form>
+    </center>
+</body>
+</html>

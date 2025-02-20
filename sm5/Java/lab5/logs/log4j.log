@@ -1,0 +1,553 @@
+[INFO ] 2023-12-14 17:50:59.913 [main] Main - Programm started
+[INFO ] 2023-12-14 17:50:59.920 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:50:59.921 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:02.274 [main] Main - User have chosen //1
+[INFO ] 2023-12-14 17:51:02.275 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-14 17:51:04.069 [main] Main - Freezer device connected
+[INFO ] 2023-12-14 17:51:04.069 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:04.069 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:05.072 [main] Main - User have chosen //2
+[INFO ] 2023-12-14 17:51:05.072 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-14 17:51:06.517 [main] Main - Washer device connected
+[INFO ] 2023-12-14 17:51:06.517 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:06.518 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:08.532 [main] Main - User have chosen //4
+[INFO ] 2023-12-14 17:51:08.532 [main] Main - Listing Appliances
+[INFO ] 2023-12-14 17:51:10.722 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:10.722 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:13.443 [main] Main - User have chosen //7
+[INFO ] 2023-12-14 17:51:13.443 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:13.443 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:15.702 [main] Main - User have chosen //8
+[INFO ] 2023-12-14 17:51:15.702 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:15.703 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:16.921 [main] Main - User have chosen //7
+[INFO ] 2023-12-14 17:51:16.921 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:16.921 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:18.875 [main] Main - User have chosen //4
+[INFO ] 2023-12-14 17:51:18.875 [main] Main - Listing Appliances
+[INFO ] 2023-12-14 17:51:20.206 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:20.206 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:22.527 [main] Main - User have chosen //5
+[INFO ] 2023-12-14 17:51:22.527 [main] Main - Deleting Appliance
+[INFO ] 2023-12-14 17:51:22.527 [main] Main - Listing Appliances
+[INFO ] 2023-12-14 17:51:23.469 [main] Main - Device deleted
+[INFO ] 2023-12-14 17:51:23.469 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:23.469 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:24.065 [main] Main - User have chosen //5
+[INFO ] 2023-12-14 17:51:24.065 [main] Main - Deleting Appliance
+[INFO ] 2023-12-14 17:51:24.065 [main] Main - Listing Appliances
+[ERROR] 2023-12-14 17:51:24.920 [main] Main - Trying to delete unexisting device
+[INFO ] 2023-12-14 17:51:26.758 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:26.758 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:30.016 [main] Main - User have chosen //5
+[INFO ] 2023-12-14 17:51:30.016 [main] Main - Deleting Appliance
+[INFO ] 2023-12-14 17:51:30.016 [main] Main - Listing Appliances
+[INFO ] 2023-12-14 17:51:30.955 [main] Main - Device deleted
+[INFO ] 2023-12-14 17:51:30.955 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:30.955 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:32.911 [main] Main - User have chosen //4
+[INFO ] 2023-12-14 17:51:32.912 [main] Main - Listing Appliances
+[INFO ] 2023-12-14 17:51:33.822 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:33.822 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:35.989 [main] Main - User have chosen //8
+[INFO ] 2023-12-14 17:51:35.989 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:35.989 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-14 17:51:37.297 [main] Main - User have chosen //4
+[INFO ] 2023-12-14 17:51:37.297 [main] Main - Listing Appliances
+[INFO ] 2023-12-14 17:51:38.980 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-14 17:51:38.980 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:27.461 [main] Main - Programm started
+[INFO ] 2023-12-17 16:23:27.469 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:27.469 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:30.394 [main] Main - User have chosen //1
+[INFO ] 2023-12-17 16:23:30.395 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 16:23:32.546 [main] Main - Freezer device connected
+[INFO ] 2023-12-17 16:23:32.547 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:32.547 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:33.866 [main] Main - User have chosen //3
+[INFO ] 2023-12-17 16:23:33.866 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 16:23:35.427 [main] Main - Dishwasher device connected
+[INFO ] 2023-12-17 16:23:35.427 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:35.427 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:36.137 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:23:36.137 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:23:37.783 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:37.784 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:38.801 [main] Main - User have chosen //6
+[INFO ] 2023-12-17 16:23:38.802 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:23:38.802 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:23:41.843 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 16:23:41.843 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:23:42.886 [main] Main - Device toggling
+[INFO ] 2023-12-17 16:23:42.886 [main] Main - Device turned ON
+[INFO ] 2023-12-17 16:23:42.886 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:23:42.887 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:23:42.887 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:23:42.887 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:23:45.292 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 16:23:45.292 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:23:45.292 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:23:47.247 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-17 16:23:47.247 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:47.247 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:49.573 [main] Main - User have chosen //7
+[INFO ] 2023-12-17 16:23:49.573 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:49.573 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:53.354 [main] Main - User have chosen //7
+[INFO ] 2023-12-17 16:23:53.354 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:23:53.354 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:23:57.680 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:26:05.836 [main] Main - Programm started
+[INFO ] 2023-12-17 16:26:05.844 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:26:05.844 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:26:11.562 [main] Main - User have chosen //1
+[INFO ] 2023-12-17 16:26:11.562 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 16:26:13.414 [main] Main - Freezer device connected
+[INFO ] 2023-12-17 16:26:13.414 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:26:13.414 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:26:14.350 [main] Main - User have chosen //3
+[INFO ] 2023-12-17 16:26:14.350 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 16:26:17.415 [main] Main - Dishwasher device connected
+[INFO ] 2023-12-17 16:26:17.416 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:26:17.416 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:26:18.561 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:26:18.561 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:26:20.191 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:26:20.191 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:26:22.162 [main] Main - User have chosen //7
+[INFO ] 2023-12-17 16:26:22.370 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:26:22.370 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:27:00.428 [main] Main - User have chosen //7
+[INFO ] 2023-12-17 16:27:00.431 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:27:00.432 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:27:01.890 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:27:19.149 [main] Main - Programm started
+[INFO ] 2023-12-17 16:27:19.157 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:27:19.157 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:27:21.314 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:27:21.314 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:27:22.847 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:27:22.847 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:27:24.713 [main] Main - User have chosen //8
+[INFO ] 2023-12-17 16:33:44.546 [main] Main - Programm started
+[INFO ] 2023-12-17 16:33:44.554 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:33:44.554 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:33:47.621 [main] Main - User have chosen //8
+[INFO ] 2023-12-17 16:33:47.836 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:33:47.836 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:33:49.723 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:33:49.723 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:33:51.354 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:33:51.354 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:33:52.183 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:33:52.183 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:33:54.385 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:33:54.386 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:34:01.903 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:34:01.903 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:34:48.242 [main] Main - Programm started
+[INFO ] 2023-12-17 16:34:48.265 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:34:48.265 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:34:53.637 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:35:05.240 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:35:13.010 [main] Main - Programm started
+[INFO ] 2023-12-17 16:35:13.017 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:35:13.018 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:35:17.628 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:35:22.085 [main] Main - Programm started
+[INFO ] 2023-12-17 16:35:22.107 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:35:22.107 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:35:26.068 [main] Main - User have chosen //8
+[INFO ] 2023-12-17 16:35:32.450 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:35:32.450 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:36:04.154 [main] Main - Programm started
+[INFO ] 2023-12-17 16:36:04.173 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:36:04.174 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:36:07.737 [main] Main - User have chosen //8
+[INFO ] 2023-12-17 16:36:13.691 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:36:13.691 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:36:29.046 [main] Main - Programm started
+[INFO ] 2023-12-17 16:36:29.066 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:36:29.066 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:36:31.226 [main] Main - User have chosen //8
+[INFO ] 2023-12-17 16:38:05.212 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:38:05.212 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:38:53.065 [main] Main - Programm started
+[INFO ] 2023-12-17 16:38:53.073 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:38:53.074 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:38:55.669 [main] Main - User have chosen //8
+[INFO ] 2023-12-17 16:38:55.881 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:38:55.882 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:38:57.133 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:38:57.133 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:39:00.411 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:39:00.412 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:39:02.435 [main] Main - User have chosen //6
+[INFO ] 2023-12-17 16:39:02.435 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:39:02.435 [main] Main - Listing Appliances
+[ERROR] 2023-12-17 16:39:03.611 [main] Main - Wrong choice from DEVICE MENU
+[INFO ] 2023-12-17 16:39:09.416 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:39:09.416 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:48:28.415 [main] Main - Programm started
+[INFO ] 2023-12-17 16:48:28.647 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:48:28.647 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:48:30.494 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:48:30.494 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:48:33.092 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:48:33.092 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:48:34.353 [main] Main - User have chosen //6
+[INFO ] 2023-12-17 16:48:34.353 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:48:34.353 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:48:35.364 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 16:48:35.364 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 16:48:37.221 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 16:48:37.221 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:48:37.221 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:48:38.004 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 16:48:38.004 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:48:39.152 [main] Main - Device toggling
+[INFO ] 2023-12-17 16:48:39.152 [main] Main - Device turned ON
+[INFO ] 2023-12-17 16:48:39.152 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:48:39.153 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:48:39.153 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:48:39.153 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:48:44.478 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 16:48:44.478 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:48:44.478 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:48:45.338 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 16:48:45.338 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 16:48:46.097 [main] Main - Device toggling
+[INFO ] 2023-12-17 16:48:46.097 [main] Main - Device turned ON
+[INFO ] 2023-12-17 16:48:46.097 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 16:48:46.097 [main] Main - CurrentStatus showed for Dishwasher
+[INFO ] 2023-12-17 16:48:47.478 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 16:48:47.478 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:48:47.478 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:48:48.554 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-17 16:48:48.554 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:48:48.554 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:48:49.508 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:49:07.668 [main] Main - Programm started
+[INFO ] 2023-12-17 16:49:07.896 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:49:07.897 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:49:10.276 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:49:10.276 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:49:12.032 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:49:12.032 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:49:13.419 [main] Main - User have chosen //6
+[INFO ] 2023-12-17 16:49:13.419 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:49:13.419 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:49:14.237 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 16:49:14.237 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:49:14.238 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:49:14.238 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:49:14.238 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:49:26.611 [main] Main - Changing Freezer loadout
+[INFO ] 2023-12-17 16:49:28.174 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:49:28.174 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:49:28.174 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:49:28.174 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:49:30.996 [main] Main - Changin Freezer loadout
+[INFO ] 2023-12-17 16:49:32.946 [main] Main - Product taken from Freezer
+[INFO ] 2023-12-17 16:49:32.946 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:49:32.946 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:49:32.946 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:49:32.946 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:49:45.635 [main] Main - Changing Freezer loadout
+[ERROR] 2023-12-17 16:49:48.721 [main] Main - Negative amount of products!
+[INFO ] 2023-12-17 16:49:50.090 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:49:50.091 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:49:50.091 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:49:50.091 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:49:53.170 [main] Main - Changin Freezer loadout
+[WARN ] 2023-12-17 16:49:53.831 [main] Main - Tried to take more products than Freezer have
+[INFO ] 2023-12-17 16:49:53.831 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-17 16:49:53.831 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-17 16:49:53.831 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-17 16:49:53.831 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-17 16:49:55.080 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 16:49:55.081 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:49:55.081 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:49:56.578 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-17 16:49:56.578 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:49:56.578 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:49:58.426 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:51:25.870 [main] Main - Programm started
+[INFO ] 2023-12-17 16:51:26.097 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:51:26.098 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:51:45.440 [main] Main - Programm started
+[INFO ] 2023-12-17 16:51:45.666 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:51:45.666 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:56:20.702 [main] Main - Freezer device connected
+[INFO ] 2023-12-17 16:56:20.705 [main] Main - Mode switched for Freezer
+[INFO ] 2023-12-17 16:56:20.706 [main] Main - Freezer device connected
+[ERROR] 2023-12-17 16:56:20.706 [main] Main - Trying to choose unexisting mode!
+[INFO ] 2023-12-17 16:56:20.708 [main] Main - Dishwasher device connected
+[ERROR] 2023-12-17 16:56:20.708 [main] Main - Trying to choose unexisting mode!
+[INFO ] 2023-12-17 16:56:20.708 [main] Main - Dishwasher device connected
+[INFO ] 2023-12-17 16:56:20.708 [main] Main - Mode switched for Dishwasher
+[INFO ] 2023-12-17 16:56:30.244 [main] Main - Programm started
+[INFO ] 2023-12-17 16:56:30.339 [main] Main - JSON readed.
+[INFO ] 2023-12-17 16:56:30.411 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:56:30.411 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:56:32.047 [main] Main - User have chosen //1
+[INFO ] 2023-12-17 16:56:32.047 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 16:56:34.630 [main] Main - Freezer device connected
+[INFO ] 2023-12-17 16:56:34.631 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:56:34.631 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:56:35.752 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:56:35.753 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:56:37.858 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:56:37.859 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:56:38.868 [main] Main - User have chosen //5
+[INFO ] 2023-12-17 16:56:38.868 [main] Main - Deleting Appliance
+[INFO ] 2023-12-17 16:56:38.868 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:56:39.933 [main] Main - Device deleted
+[INFO ] 2023-12-17 16:56:39.934 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:56:39.934 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:56:40.694 [main] Main - User have chosen //5
+[INFO ] 2023-12-17 16:56:40.694 [main] Main - Deleting Appliance
+[INFO ] 2023-12-17 16:56:40.695 [main] Main - Listing Appliances
+[ERROR] 2023-12-17 16:56:45.373 [main] Main - Trying to delete unexisting device
+[INFO ] 2023-12-17 16:56:46.047 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:56:46.048 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:56:49.472 [main] Main - User have chosen //6
+[INFO ] 2023-12-17 16:56:49.473 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:56:49.473 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:56:50.458 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 16:56:50.458 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 16:56:50.460 [main] Main - CurrentStatus showed for Dishwasher
+[INFO ] 2023-12-17 16:56:52.874 [main] Main - Device toggling
+[INFO ] 2023-12-17 16:56:52.874 [main] Main - Device turned OFF
+[INFO ] 2023-12-17 16:56:52.874 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 16:56:54.342 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 16:56:54.343 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 16:56:54.343 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:56:55.829 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-17 16:56:55.829 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:56:55.829 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:57:05.268 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:57:05.268 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:57:12.310 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:57:12.311 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:57:13.958 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:57:34.120 [main] Main - Programm started
+[INFO ] 2023-12-17 16:57:34.216 [main] Main - JSON readed.
+[INFO ] 2023-12-17 16:57:34.287 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:57:34.288 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:57:35.529 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 16:57:35.529 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 16:57:37.185 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:57:37.186 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 16:59:39.731 [main] Main - Programm ended
+[INFO ] 2023-12-17 16:59:49.660 [main] Main - Freezer device connected
+[INFO ] 2023-12-17 16:59:49.662 [main] Main - Mode switched for Freezer
+[INFO ] 2023-12-17 16:59:49.663 [main] Main - Freezer device connected
+[ERROR] 2023-12-17 16:59:49.663 [main] Main - Trying to choose unexisting mode!
+[INFO ] 2023-12-17 16:59:49.665 [main] Main - Dishwasher device connected
+[ERROR] 2023-12-17 16:59:49.665 [main] Main - Trying to choose unexisting mode!
+[INFO ] 2023-12-17 16:59:49.665 [main] Main - Dishwasher device connected
+[INFO ] 2023-12-17 16:59:49.665 [main] Main - Mode switched for Dishwasher
+[INFO ] 2023-12-17 16:59:59.633 [main] Main - Programm started
+[INFO ] 2023-12-17 16:59:59.728 [main] Main - JSON readed.
+[INFO ] 2023-12-17 16:59:59.800 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 16:59:59.800 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:01.569 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 17:00:01.569 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:02.822 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:02.823 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:05.061 [main] Main - User have chosen //5
+[INFO ] 2023-12-17 17:00:05.062 [main] Main - Deleting Appliance
+[INFO ] 2023-12-17 17:00:05.062 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:05.743 [main] Main - Device deleted
+[INFO ] 2023-12-17 17:00:05.743 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:05.744 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:06.568 [main] Main - User have chosen //5
+[INFO ] 2023-12-17 17:00:06.568 [main] Main - Deleting Appliance
+[INFO ] 2023-12-17 17:00:06.569 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:07.145 [main] Main - Device deleted
+[INFO ] 2023-12-17 17:00:07.145 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:07.146 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:07.895 [main] Main - User have chosen //2
+[INFO ] 2023-12-17 17:00:07.895 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 17:00:09.431 [main] Main - Washer device connected
+[INFO ] 2023-12-17 17:00:09.432 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:09.432 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:10.051 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 17:00:10.052 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:11.165 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:11.166 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:12.477 [main] Main - User have chosen //3
+[INFO ] 2023-12-17 17:00:12.477 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-17 17:00:13.823 [main] Main - Dishwasher device connected
+[INFO ] 2023-12-17 17:00:13.823 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:13.824 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:14.268 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 17:00:14.268 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:15.683 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:15.684 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:17.597 [main] Main - User have chosen //6
+[INFO ] 2023-12-17 17:00:17.597 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 17:00:17.597 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:18.303 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 17:00:18.303 [main] Main - Changing Washer settings
+[INFO ] 2023-12-17 17:00:18.987 [main] Main - Device toggling
+[INFO ] 2023-12-17 17:00:18.988 [main] Main - Device turned ON
+[INFO ] 2023-12-17 17:00:18.988 [main] Main - Changing Washer settings
+[INFO ] 2023-12-17 17:00:18.989 [main] Main - CurrentLoad showed for Washer
+[INFO ] 2023-12-17 17:00:18.989 [main] Main - CurrentStatus showed for Washer
+[INFO ] 2023-12-17 17:00:18.989 [main] Main - CurrentMode showed for Washer
+[INFO ] 2023-12-17 17:00:21.529 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 17:00:21.529 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 17:00:21.529 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:22.649 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-17 17:00:22.649 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 17:00:23.351 [main] Main - Device toggling
+[INFO ] 2023-12-17 17:00:23.351 [main] Main - Device turned ON
+[INFO ] 2023-12-17 17:00:23.351 [main] Main - Changing Dishwasher settings
+[INFO ] 2023-12-17 17:00:23.352 [main] Main - CurrentStatus showed for Dishwasher
+[INFO ] 2023-12-17 17:00:24.601 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-17 17:00:24.601 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-17 17:00:24.602 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:00:25.773 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-17 17:00:25.773 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:25.774 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:43.241 [main] Main - Programm ended
+[INFO ] 2023-12-17 17:00:58.483 [main] Main - Programm started
+[INFO ] 2023-12-17 17:00:58.576 [main] Main - JSON readed.
+[INFO ] 2023-12-17 17:00:58.648 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:00:58.648 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:00:59.326 [main] Main - User have chosen //4
+[INFO ] 2023-12-17 17:00:59.326 [main] Main - Listing Appliances
+[INFO ] 2023-12-17 17:01:01.321 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-17 17:01:01.321 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-17 17:01:09.298 [main] Main - Programm ended
+[INFO ] 2023-12-21 15:58:13.043 [main] Main - Freezer device connected
+[INFO ] 2023-12-21 15:58:13.045 [main] Main - Mode switched for Freezer
+[INFO ] 2023-12-21 15:58:13.046 [main] Main - Freezer device connected
+[ERROR] 2023-12-21 15:58:13.046 [main] Main - Trying to choose unexisting mode!
+[INFO ] 2023-12-21 15:58:13.048 [main] Main - Dishwasher device connected
+[ERROR] 2023-12-21 15:58:13.048 [main] Main - Trying to choose unexisting mode!
+[INFO ] 2023-12-21 15:58:13.049 [main] Main - Dishwasher device connected
+[INFO ] 2023-12-21 15:58:13.049 [main] Main - Mode switched for Dishwasher
+[INFO ] 2023-12-21 15:58:23.570 [main] Main - Programm started
+[INFO ] 2023-12-21 15:58:23.665 [main] Main - JSON readed.
+[INFO ] 2023-12-21 15:58:23.739 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:23.739 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:26.833 [main] Main - User have chosen //4
+[INFO ] 2023-12-21 15:58:26.833 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:58:28.335 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:28.336 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:31.344 [main] Main - User have chosen //5
+[INFO ] 2023-12-21 15:58:31.345 [main] Main - Deleting Appliance
+[INFO ] 2023-12-21 15:58:31.345 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:58:31.860 [main] Main - Device deleted
+[INFO ] 2023-12-21 15:58:31.860 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:31.860 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:32.463 [main] Main - User have chosen //5
+[INFO ] 2023-12-21 15:58:32.464 [main] Main - Deleting Appliance
+[INFO ] 2023-12-21 15:58:32.464 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:58:32.863 [main] Main - Device deleted
+[INFO ] 2023-12-21 15:58:32.863 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:32.864 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:34.329 [main] Main - User have chosen //4
+[INFO ] 2023-12-21 15:58:34.329 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:58:34.967 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:34.968 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:37.878 [main] Main - User have chosen //1
+[INFO ] 2023-12-21 15:58:37.878 [main] Main - Connecting new Appliance
+[INFO ] 2023-12-21 15:58:43.075 [main] Main - Freezer device connected
+[INFO ] 2023-12-21 15:58:43.075 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:43.076 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:43.890 [main] Main - User have chosen //4
+[INFO ] 2023-12-21 15:58:43.890 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:58:45.003 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:58:45.003 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:58:46.226 [main] Main - User have chosen //6
+[INFO ] 2023-12-21 15:58:46.226 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-21 15:58:46.226 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:58:46.822 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-21 15:58:46.822 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:58:47.425 [main] Main - Device toggling
+[INFO ] 2023-12-21 15:58:47.425 [main] Main - Device turned ON
+[INFO ] 2023-12-21 15:58:47.425 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:58:47.426 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:58:47.426 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:58:47.426 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:58:48.689 [main] Main - Changing Freezer loadout
+[ERROR] 2023-12-21 15:58:50.401 [main] Main - Freezer limit reached!
+[INFO ] 2023-12-21 15:58:50.401 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:58:50.402 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:58:50.402 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:58:50.402 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:00.030 [main] Main - Changin Freezer loadout
+[INFO ] 2023-12-21 15:59:01.687 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:01.688 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:59:01.688 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:59:01.688 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:07.261 [main] Main - Changin Freezer loadout
+[WARN ] 2023-12-21 15:59:09.696 [main] Main - Tried to take more products than Freezer have
+[INFO ] 2023-12-21 15:59:09.697 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:09.697 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:59:09.697 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:59:09.697 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:11.849 [main] Main - Changin Freezer loadout
+[INFO ] 2023-12-21 15:59:13.635 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:13.636 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:59:13.636 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:59:13.636 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:25.329 [main] Main - Changing mode
+[INFO ] 2023-12-21 15:59:25.332 [main] Main - AllModes showed for Freezer
+[INFO ] 2023-12-21 15:59:25.332 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:26.257 [main] Main - Mode switched for Freezer
+[INFO ] 2023-12-21 15:59:26.257 [main] Main - AllModes showed for Freezer
+[INFO ] 2023-12-21 15:59:26.257 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:27.746 [main] Main - Mode switched for Freezer
+[INFO ] 2023-12-21 15:59:27.747 [main] Main - AllModes showed for Freezer
+[INFO ] 2023-12-21 15:59:27.747 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:28.243 [main] Main - Mode switched for Freezer
+[INFO ] 2023-12-21 15:59:28.244 [main] Main - AllModes showed for Freezer
+[INFO ] 2023-12-21 15:59:28.244 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:29.222 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:29.223 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:59:29.223 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:59:29.223 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:37.855 [main] Main - Changing Freezer loadout
+[INFO ] 2023-12-21 15:59:40.529 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:40.530 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:59:40.530 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:59:40.530 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:41.804 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-21 15:59:41.804 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-21 15:59:41.804 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:59:42.746 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-21 15:59:42.746 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:59:42.747 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:59:44.020 [main] Main - Programm ended
+[INFO ] 2023-12-21 15:59:46.212 [main] Main - Programm started
+[INFO ] 2023-12-21 15:59:46.306 [main] Main - JSON readed.
+[INFO ] 2023-12-21 15:59:46.374 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:59:46.374 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:59:46.981 [main] Main - User have chosen //4
+[INFO ] 2023-12-21 15:59:46.981 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:59:48.327 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:59:48.327 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:59:50.251 [main] Main - User have chosen //6
+[INFO ] 2023-12-21 15:59:50.251 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-21 15:59:50.251 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:59:50.836 [main] Main - Entered FUNCTIONS MENU
+[INFO ] 2023-12-21 15:59:50.836 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:50.837 [main] Main - CurrentLoad showed for Freezer
+[INFO ] 2023-12-21 15:59:50.838 [main] Main - CurrentStatus showed for Freezer
+[INFO ] 2023-12-21 15:59:50.838 [main] Main - CurrentMode showed for Freezer
+[INFO ] 2023-12-21 15:59:52.406 [main] Main - Device toggling
+[INFO ] 2023-12-21 15:59:52.406 [main] Main - Device turned OFF
+[INFO ] 2023-12-21 15:59:52.406 [main] Main - Changing Freezer settings
+[INFO ] 2023-12-21 15:59:53.491 [main] Main - Exited FUNCTIONS MENU
+[INFO ] 2023-12-21 15:59:53.491 [main] Main - Entered DEVICE MENU
+[INFO ] 2023-12-21 15:59:53.491 [main] Main - Listing Appliances
+[INFO ] 2023-12-21 15:59:54.159 [main] Main - Exit from DEVICE MENU
+[INFO ] 2023-12-21 15:59:54.159 [main] Main - Entered MAIN MENU
+[INFO ] 2023-12-21 15:59:54.160 [main] Main - MAIN MENU showed up
+[INFO ] 2023-12-21 15:59:56.386 [main] Main - Programm ended

@@ -1,0 +1,180 @@
+/* TEST */
+*, *:after, *:before {
+	box-sizing: border-box; 
+}
+.clearfix:before, .clearfix:after { 
+	content: ''; 
+	display: table; 
+}
+.clearfix:after { 
+	clear: both; 
+}
+.hover-text-one {
+	overflow: hidden;
+	margin: 0;
+	width: 100%;
+	list-style: none;
+	text-align: center;
+}
+.hover-text-one figure {
+	position: relative;
+	z-index: 1;
+	display: inline-block;
+	overflow: hidden;
+	background: #527c82;
+	text-align: center;
+	cursor: pointer;
+}
+.hover-text-one figure img {
+	position: relative;
+	display: block;
+	min-height: 100%;
+	opacity: 0.8;
+}
+.hover-text-one figure figcaption {
+	padding: 2em;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 1.25em;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+.hover-text-one figure figcaption::before,
+.hover-text-one figure figcaption::after {
+	pointer-events: none;
+}
+.hover-text-one figure figcaption{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.hover-text-one figure h3 {
+	word-spacing: -0.15em;
+	font-weight: 300;
+}
+.hover-text-one figure h3 span {
+	font-weight: 800;
+}
+.hover-text-one figure h3,
+.hover-text-one figure p {
+	margin: 0;
+}
+.hover-text-one figure p {
+	letter-spacing: 1px;
+	font-size: 68.5%;
+}
+
+/* Эффект при наведении */
+figure.effect-text-three {
+	background: #527c82;
+}
+figure.effect-text-three img {
+	width: -webkit-calc(100% + 20px);
+	width: calc(100% + 20px);
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	transform: scale(1.1);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+figure.effect-text-three:hover img {
+	opacity: 0.4;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+figure.effect-text-three figcaption {
+	text-align: left;
+}
+figure.effect-text-three h3 {
+	position: relative;
+	overflow: hidden;
+	padding: 0.5em 0;
+}
+figure.effect-text-three h3::after {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 3px;
+	background: #fff;
+	content: '';
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(-100%,0,0);
+	transform: translate3d(-100%,0,0);
+}
+figure.effect-text-three:hover h3::after {
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+figure.effect-text-three p {
+	padding: 1em 0;
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: translate3d(100%,0,0);
+	transform: translate3d(100%,0,0);
+}
+figure.effect-text-three:hover p {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+     
+/* Gradient border */
+@property --gradient-angle {
+syntax: "<angle>";
+initial-value: 0deg;
+inherits: false;
+}
+
+:root {
+--clr-1: #138a0f;
+--clr-2: #08a343;
+--clr-3: #85b307;
+--clr-4: #dee20c;
+--clr-5: #d3a409;
+}
+
+.card {
+height: 160px;
+width: 1000px;
+aspect-ratio: 1 / 1.5;
+background: var(--clr-1);
+border-radius: 0.5rem;
+
+position: relative;
+}
+
+.card::before,
+.card::after {
+content: "";
+position: absolute;
+inset: -0.5rem;
+z-index: -1;
+background: conic-gradient(
+	from var(--gradient-angle),
+	var(--clr-3),
+	var(--clr-4),
+	var(--clr-5),
+	var(--clr-4),
+	var(--clr-3)
+);
+border-radius: inherit;
+animation: rotation 20s linear infinite;
+}
+
+.card::after {
+filter: blur(3.5rem);
+}
+
+@keyframes rotation {
+0% {
+	--gradient-angle: 0deg;
+}
+100% {
+	--gradient-angle: 360deg;
+}
+}

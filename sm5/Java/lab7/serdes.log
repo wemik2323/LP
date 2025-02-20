@@ -1,0 +1,68 @@
+2024-05-26 12:37:42 INFO  serdes:189 - Deserialization completed
+2024-05-26 12:37:42 INFO  serdes:103 - Program initialization started.
+2024-05-26 12:37:52 INFO  serdes:157 - Controlling devices
+2024-05-26 12:38:00 INFO  serdes:189 - Deserialization completed
+2024-05-26 12:38:00 INFO  serdes:103 - Program initialization started.
+2024-05-26 12:38:08 INFO  serdes:157 - Controlling devices
+2024-05-26 12:39:21 INFO  serdes:189 - Deserialization completed
+2024-05-26 12:39:21 INFO  serdes:103 - Program initialization started.
+2024-05-26 12:40:12 INFO  serdes:157 - Controlling devices
+2024-05-26 12:40:12 INFO  serdes:157 - Controlling devices
+2024-05-26 12:51:25 INFO  serdes:189 - Deserialization completed
+2024-05-26 12:51:25 INFO  serdes:103 - Program initialization started.
+2024-05-26 12:55:00 INFO  serdes:189 - Deserialization completed
+2024-05-26 12:55:00 INFO  serdes:103 - Program initialization started.
+2024-05-26 12:55:50 INFO  serdes:157 - Controlling devices
+2024-05-26 13:01:42 INFO  serdes:189 - Deserialization completed
+2024-05-26 13:01:42 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:02:14 INFO  serdes:157 - Controlling devices
+2024-05-26 13:02:52 INFO  serdes:189 - Deserialization completed
+2024-05-26 13:02:52 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:03:54 INFO  serdes:157 - Controlling devices
+2024-05-26 13:04:18 INFO  serdes:189 - Deserialization completed
+2024-05-26 13:04:18 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:05:19 INFO  serdes:157 - Controlling devices
+2024-05-26 13:05:50 INFO  serdes:157 - Controlling devices
+2024-05-26 13:05:54 INFO  serdes:133 - BRAND изменено для 0
+2024-05-26 13:06:11 INFO  serdes:157 - Controlling devices
+2024-05-26 13:10:29 INFO  serdes:189 - Deserialization completed
+2024-05-26 13:10:29 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:10:54 INFO  serdes:157 - Controlling devices
+2024-05-26 13:18:35 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:18:35 INFO  serdes:194 - Deserialization completed
+2024-05-26 13:19:22 INFO  serdes:157 - Controlling devices
+2024-05-26 13:19:22 INFO  serdes:157 - Controlling devices
+2024-05-26 13:19:25 INFO  serdes:157 - Controlling devices
+2024-05-26 13:19:28 INFO  serdes:157 - Controlling devices
+2024-05-26 13:19:29 INFO  serdes:157 - Controlling devices
+2024-05-26 13:54:15 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:54:15 INFO  serdes:201 - Deserialization declined
+2024-05-26 13:54:27 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:54:27 INFO  serdes:201 - Deserialization declined
+2024-05-26 13:54:33 INFO  serdes:182 - Serialization completed
+2024-05-26 13:54:39 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:54:39 INFO  serdes:198 - Deserialization completed
+2024-05-26 13:55:59 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:55:59 INFO  serdes:198 - Deserialization completed
+2024-05-26 13:57:52 INFO  serdes:161 - Controlling devices
+2024-05-26 13:59:25 INFO  serdes:103 - Program initialization started.
+2024-05-26 13:59:25 INFO  serdes:198 - Deserialization completed
+2024-05-26 13:59:37 INFO  serdes:133 - BRAND изменено для 0
+2024-05-26 13:59:48 INFO  serdes:161 - Controlling devices
+2024-05-26 13:59:50 INFO  serdes:161 - Controlling devices
+2024-05-26 13:59:53 INFO  serdes:161 - Controlling devices
+2024-05-26 14:01:22 INFO  serdes:103 - Program initialization started.
+2024-05-26 14:01:22 INFO  serdes:198 - Deserialization completed
+2024-05-26 14:01:38 INFO  serdes:161 - Controlling devices
+2024-05-26 14:01:42 INFO  serdes:140 - MODEL изменено для 0
+2024-05-26 14:03:50 INFO  serdes:103 - Program initialization started.
+2024-05-26 14:03:50 INFO  serdes:198 - Deserialization completed
+2024-05-26 14:03:56 INFO  serdes:161 - Controlling devices
+2024-05-26 14:03:59 INFO  serdes:161 - Controlling devices
+2024-05-26 14:04:03 INFO  serdes:161 - Controlling devices
+2024-05-26 14:04:11 INFO  serdes:161 - Controlling devices
+2024-05-26 14:04:12 INFO  serdes:161 - Controlling devices
+2024-05-26 14:21:47 INFO  serdes:101 - Program initialization started.
+2024-05-26 14:21:47 INFO  serdes:219 - Deserialization completed
+2024-05-26 14:21:58 INFO  serdes:101 - Program initialization started.
+2024-05-26 14:21:58 INFO  serdes:219 - Deserialization completed

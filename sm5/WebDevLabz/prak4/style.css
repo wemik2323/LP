@@ -1,0 +1,28 @@
+body {
+    font-family: Share Tech Mono,Helvetica,Arial,Lucida,sans-serif,Oxanium;
+    background-color: #181818;
+    color: #dadad1;
+}
+
+.infoButton {
+    font-family: Share Tech Mono;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    transition-duration: 0.7s;
+    text-transform: uppercase;
+    position: relative;
+    display: inline-block;
+    padding: 0.75rem 1.1875rem;
+    cursor: pointer;
+    color: #e11900;
+    background: rgba(0,0,0,.3);
+    border: 0.125rem solid;
+    border-left: 0.5rem solid;
+}
+
+.infoButton:hover {
+    transition-duration: 0.7s;
+    background-image:none;
+    background-color:#531810;
+}

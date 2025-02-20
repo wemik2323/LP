@@ -1,0 +1,42 @@
+{
+    "file1":{
+    "name": ".\\src\\main\\java\\org\\PrescentV\\test.txt",
+    "amountOfChars": "4220.0",
+    "mostRepeatedChar": {
+        "char": "e",
+        "amount": 388.0
+        },
+    "rarestChar": {
+        "char": "4",
+        "amount": 1.0
+        },
+    "mostFrequentWord": {
+        "word": "the",
+        "amount": 30.0
+        },
+    "rarestWord": {
+        "word": "You",
+        "amount": 1.0
+        }
+    },
+    "file2":{
+    "name": ".\\src\\main\\java\\org\\PrescentV\\test2.txt",
+    "amountOfChars": "6138.0",
+    "mostRepeatedChar": {
+        "char": "е",
+        "amount": 162.0
+        },
+    "rarestChar": {
+        "char": "Г",
+        "amount": 1.0
+        },
+    "mostFrequentWord": {
+        "word": "и",
+        "amount": 10.0
+        },
+    "rarestWord": {
+        "word": "второй",
+        "amount": 1.0
+        }
+    }
+}

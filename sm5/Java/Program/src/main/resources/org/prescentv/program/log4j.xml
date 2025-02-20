@@ -1,0 +1,44 @@
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+    <appender name="objectsAppender" class="org.apache.log4j.RollingFileAppender">
+        <param name="File" value="objects.log"/>
+        <param name="MaxFileSize" value="10MB"/>
+        <param name="MaxBackupIndex" value="5"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+        </layout>
+    </appender>
+    <appender name="serdesAppender" class="org.apache.log4j.RollingFileAppender">
+        <param name="File" value="serdes.log"/>
+        <param name="MaxFileSize" value="10MB"/>
+        <param name="MaxBackupIndex" value="5"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+        </layout>
+    </appender>
+    <appender name="dbAppender" class="org.apache.log4j.RollingFileAppender">
+        <param name="File" value="db.log"/>
+        <param name="MaxFileSize" value="10MB"/>
+        <param name="MaxBackupIndex" value="5"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
+        </layout>
+    </appender>
+    <logger name="objects" additivity="false">
+        <level value="INFO"/>
+        <appender-ref ref="objectsAppender"/>
+    </logger>
+    <logger name="serdes" additivity="false">
+        <level value="INFO"/>
+        <appender-ref ref="serdesAppender"/>
+    </logger>
+    <logger name="db" additivity="false">
+        <level value="INFO"/>
+        <appender-ref ref="dbAppender"/>
+    </logger>
+    <root>
+        <priority value="DEBUG"/>
+        <appender-ref ref="objectsAppender"/>
+        <appender-ref ref="serdesAppender"/>
+        <appender-ref ref="dbAppender"/>
+    </root>
+</log4j:configuration>
